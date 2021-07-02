@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:navy
+}
+h1
+{
+	color:white;
+	font-size: 40px;
+}
+
+h2
+	{
+	color:white;
+	font-size: 15px;
+	}
+	p
+	{
+	color:black;
+	background-color:white;
+	font-size:18px;
+	}
+	p2
+	{
+	color:black;
+	background-color:white;
+	font-size:18px;
+	}		
+    p3
+    {
+    color:black;	
+	background-color:white;
+	font-size:18px;
+    }
+    p4
+    {
+    color:black;	
+	background-color:white;
+	font-size:18px; 
+    }
+    p5
+    { 
+    color:black;	
+	background-color:white;
+	font-size:18px;
+    }	
+    a
+	{
+	color:darkblue;
+	background-color:white;
+	font-size:18px;
+    }
